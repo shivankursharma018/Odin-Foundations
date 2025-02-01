@@ -3,7 +3,7 @@
 
 | Project                 | Topic             | Repository                                                                   | Live Preview                                                       |
 | ----------------------- | ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Recipes 4.0**         | HTML Foundations  | [Code](https://github.com/shivankursharma018/Odin-Foundations/tree/main/recipes)  | [Demo](https://shivankursharma018.github.io/Odin-Foundations/recipes/)|
+| **Recipes**		  | HTML Foundations  | [Code](https://github.com/shivankursharma018/Odin-Foundations/tree/main/recipes)  | [Demo](https://shivankursharma018.github.io/Odin-Foundations/recipes/)|
 | **Landing Page**        | Flexbox           | [Code](https://github.com/shivankursharma018/Odin-Foundations/tree/main/landing-page)  | [Demo](https://shivankursharma018.github.io/Odin-Foundations/landing-page/)|
 | **Rock Paper Scissors** | JavaScript Basics | [Code](https://github.com/shivankursharma018/Odin-Foundations/tree/main/rock-paper-scissors)      | [Demo](https://shivankursharma018.github.io/Odin-Foundations/rock-paper-scissors/)|
 | **Etch-a-Sketch**       | JavaScript Basics | [Code](https://github.com/shivankursharma018/Odin-Foundations/tree/main/etch-a-sketch) | [Demo](https://shivankursharma018.github.io/Odin-Foundations/etch-a-sketch/)|
